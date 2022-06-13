@@ -8,7 +8,7 @@ Je suis passionné par le web et les nouvelles technologies, j’ai eu l’occas
 
 340+ Défi de code résolus (PHP, JavaScript & SQL)
 
-https://www.codewars.com/users/L%C3%A9o%20Nrs/badges/small
+<img src="https://www.codewars.com/users/L%C3%A9o%20Nrs/badges/small" alt="Représentation du level atteint" />
 
 ### 🏹 Spécilisations
 
