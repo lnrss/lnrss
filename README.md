@@ -1,4 +1,4 @@
-<img src="https://zupimages.net/up/22/39/fi3w.png" alt="Image de présentation" />
+<img src="https://zupimages.net/up/22/39/wybl.png" alt="Image de présentation" />
 
 ### 🙋🏽 A propos
 
