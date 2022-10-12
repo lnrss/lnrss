@@ -11,7 +11,7 @@ Je t’aide à te démarquer avec un univers unique & attirer tes clients rêvé
 
 <img src="https://www.codewars.com/users/L%C3%A9o%20Nrs/badges/small" alt="Représentation du level atteint" />
 
-### ✦ Spécilisations
+### ✦ Spécialisations
 
 ɢʀᴀᴘʜɪsᴍᴇ ﹠ ᴍᴏᴛɪᴏɴ ᴅᴇsɪɢɴ ↓
 - Photoshop / Illustrator / Figma
@@ -25,11 +25,11 @@ Je t’aide à te démarquer avec un univers unique & attirer tes clients rêvé
 
 ### ✦ Retrouve moi sur...
 
-ɪɴsᴛᴀɢʀᴀᴍ ↓
+ɪɴsᴛᴀɢʀᴀᴍ
 https://www.instagram.com/ui.leonrs
 
-ᴅʀɪʙʙʙʟᴇ ↓
+ᴅʀɪʙʙʙʟᴇ
 https://dribbble.com/leonrs
 
-ʟɪɴᴋᴇᴅɪɴ ↓
+ʟɪɴᴋᴇᴅɪɴ
 www.linkedin.com/in/leonrss
