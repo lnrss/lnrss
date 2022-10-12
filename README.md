@@ -1,19 +1,35 @@
 <img src="https://zupimages.net/up/22/39/wybl.png" alt="Image de présentation" />
 
-### 🙋🏽 A propos
+### ✦ Intro
 
-Je suis passionné par le web et les nouvelles technologies, j’ai eu l’occasion de parfaire mes compétences grâce à l’alternance que m’a offert mon **BTS SIO** mais aussi grâce à de multiples projets qui m’ont permis de les mettre en pratique.
+Je t’aide à te démarquer avec un univers unique & attirer tes clients rêvés.
+𝘐𝘥𝘦𝘯𝘵𝘪𝘵𝘦́ 𝘷𝘪𝘴𝘶𝘦𝘭𝘭𝘦 | 𝘚𝘪𝘵𝘦 𝘸𝘦𝘣 | 𝘐𝘯𝘴𝘵𝘢
 
-### 🧩 Code Wars
+### ✦ Code Wars
 
 340+ exercices de code résolus (PHP, JavaScript & SQL)
 
 <img src="https://www.codewars.com/users/L%C3%A9o%20Nrs/badges/small" alt="Représentation du level atteint" />
 
-### 🏹 Spécilisations
+### ✦ Spécilisations
 
-- React JS (HTML5 / CSS3)
+ɢʀᴀᴘʜɪsᴍᴇ ﹠ ᴍᴏᴛɪᴏɴ ᴅᴇsɪɢɴ ↓
+- Photoshop / Illustrator / Figma
+- After Effects
+
+ᴅᴇ́ᴠᴇʟᴏᴘᴘᴇᴍᴇɴᴛ ғʀᴏɴᴛ﹣ᴇɴᴅ ﹠ ʙᴀᴄᴋ﹣ᴇɴᴅ ↓
+- HTML5 / CSS3 / JavaScript
 - Node JS / PHP
 - MySQL / Firebase
-- WordPress
-- Photoshop / Illustrator / Figma
+- Webflow
+
+### ✦ Retrouve moi sur...
+
+ɪɴsᴛᴀɢʀᴀᴍ ↓
+https://www.instagram.com/ui.leonrs
+
+ᴅʀɪʙʙʙʟᴇ ↓
+https://dribbble.com/leonrs
+
+ʟɪɴᴋᴇᴅɪɴ ↓
+www.linkedin.com/in/leonrss
