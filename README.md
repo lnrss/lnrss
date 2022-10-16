@@ -2,7 +2,7 @@
 
 ### ✦ Intro
 
-Je t’aide à te démarquer avec un univers unique & attirer tes clients rêvés.
+Je t’aide à te démarquer avec un univers unique & attirer tes clients rêvés.<br/>
 𝘐𝘥𝘦𝘯𝘵𝘪𝘵𝘦́ 𝘷𝘪𝘴𝘶𝘦𝘭𝘭𝘦 | 𝘚𝘪𝘵𝘦 𝘸𝘦𝘣 | 𝘐𝘯𝘴𝘵𝘢
 
 ### ✦ Code Wars
