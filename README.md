@@ -18,6 +18,7 @@ Je t’aide à te démarquer avec un univers unique & attirer tes clients rêvé
 - After Effects
 
 ᴅᴇ́ᴠᴇʟᴏᴘᴘᴇᴍᴇɴᴛ ғʀᴏɴᴛ﹣ᴇɴᴅ ﹠ ʙᴀᴄᴋ﹣ᴇɴᴅ ↓
+- React
 - HTML5 / CSS3 / JavaScript
 - Node JS / PHP
 - MySQL / Firebase
