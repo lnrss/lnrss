@@ -1,36 +1,29 @@
 <img src="https://zupimages.net/up/22/39/wybl.png" alt="Image de présentation" />
 
-### ✦ Intro
+### ✦ Introduction
 
-Je t’aide à te démarquer avec un univers unique & attirer tes clients rêvés.<br/>
-𝘐𝘥𝘦𝘯𝘵𝘪𝘵𝘦́ 𝘷𝘪𝘴𝘶𝘦𝘭𝘭𝘦 | 𝘚𝘪𝘵𝘦 𝘸𝘦𝘣 | 𝘐𝘯𝘴𝘵𝘢
+Hello Github 👋,
+
+Vous voulez un site web qui vous ressemble ? Un design unique qui vous distingue de la concurrence ? 
+
+Alors vous êtes au bon endroit ! 🍀
+
+En tant que freelance en développement et design web, je suis là pour vous aider à créer l'univers de vos rêves et attirer les clients idéaux.
+
+Mes outils de prédilection ? 
+🎨 Photoshop, Illustrator et Figma
+🎬 After Effects et Jitter
+🖼️ HTML5/CSS3 & JavaScript (front-end)
+💾 PHP, MySQL & Firebase (back-end)
+
+React fait également partie de mon arsenal de développement, une librairie (ou framework..) très efficace et adaptable (en vue d'une amélioration continue de votre projet).
+
+Pour vous tenir au courant de mes dernières créations, n'hésitez pas à me suivre sur 📸 Instagram (@ui.leonrs) et sur 🏀 Dribbble (@leonrs). 
+
+Hâte de collaborer avec vous ! 🤠
 
 ### ✦ Code Wars
 
 340+ exercices de code résolus (PHP, JavaScript & SQL)
 
 <img src="https://www.codewars.com/users/L%C3%A9o%20Nrs/badges/small" alt="Représentation du level atteint" />
-
-### ✦ Spécialisations
-
-ɢʀᴀᴘʜɪsᴍᴇ ﹠ ᴍᴏᴛɪᴏɴ ᴅᴇsɪɢɴ ↓
-- Photoshop / Illustrator / Figma
-- After Effects
-
-ᴅᴇ́ᴠᴇʟᴏᴘᴘᴇᴍᴇɴᴛ ғʀᴏɴᴛ﹣ᴇɴᴅ ﹠ ʙᴀᴄᴋ﹣ᴇɴᴅ ↓
-- React
-- HTML5 / CSS3 / JavaScript
-- Node JS / PHP
-- MySQL / Firebase
-- Webflow
-
-### ✦ Retrouve moi sur...
-
-ɪɴsᴛᴀɢʀᴀᴍ
-https://www.instagram.com/ui.leonrs
-
-ᴅʀɪʙʙʙʟᴇ
-https://dribbble.com/leonrs
-
-ʟɪɴᴋᴇᴅɪɴ
-www.linkedin.com/in/leonrss
