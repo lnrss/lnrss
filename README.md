@@ -10,11 +10,11 @@ Alors vous êtes au bon endroit ! 🍀
 
 En tant que freelance en développement et design web, je suis là pour vous aider à créer l'univers de vos rêves et attirer les clients idéaux.
 
-Mes outils de prédilection ? 
-🎨 Photoshop, Illustrator et Figma
-🎬 After Effects et Jitter
-🖼️ HTML5/CSS3 & JavaScript (front-end)
-💾 PHP, MySQL & Firebase (back-end)
+Mes outils de prédilection ?<br/>
+🎨 Photoshop, Illustrator et Figma<br/>
+🎬 After Effects et Jitter<br/>
+🖼️ HTML5/CSS3 & JavaScript (front-end)<br/>
+💾 PHP, MySQL & Firebase (back-end)<br/>
 
 React fait également partie de mon arsenal de développement, une librairie (ou framework..) très efficace et adaptable (en vue d'une amélioration continue de votre projet).
 
