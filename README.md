@@ -16,7 +16,7 @@ Mes outils de prédilection ?<br/>
 🖼️ HTML5/CSS3 & JavaScript (front-end)<br/>
 💾 PHP, MySQL & Firebase (back-end)<br/>
 
-React fait également partie de mon arsenal de développement, une librairie (ou framework..) très efficace et adaptable (en vue d'une amélioration continue de votre projet).
+React fait également partie de mon arsenal de développement, une librairie très efficace et adaptable (en vue d'une amélioration continue de votre projet).
 
 Pour vous tenir au courant de mes dernières créations, n'hésitez pas à me suivre sur 📸 Instagram (@ui.leonrs) et sur 🏀 Dribbble (@leonrs). 
 
